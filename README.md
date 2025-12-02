@@ -3,12 +3,12 @@
 This repository contains my solutions to coding challenges from different problem solving platforms.  
 I use JavaScript and organize solutions by platform and topic.
 
-## Platforms
+## 🌐 Platforms
 
 - LeetCode
 - Codewars
 
-## Goals
+## 🎯 Goals
 
 - Improve algorithmic thinking
 - Prepare for technical interviews
@@ -20,5 +20,5 @@ I use JavaScript and organize solutions by platform and topic.
 
 | Problem | Platform | File |
 |--------|----------|------|
-| [7kyu.Credit Card Mask](https://www.codewars.com/kata/credit-card-mask) | Codewars | `maskify.js` |
+| [Credit Card Mask](https://www.codewars.com/kata/credit-card-mask) | Codewars | [`credit-card-mask.js`](Codewars/credit-card-mask.js) |
 
