@@ -20,5 +20,6 @@ I use JavaScript and organize solutions by platform and topic.
 
 | Problem | Platform | File |
 |--------|----------|------|
-| [7kyu-Credit Card Mask](https://www.codewars.com/kata/credit-card-mask) | Codewars | [`7kyu-credit-card-mask.js`](codewars/7kyu-credit-card-mask.js) |
-
+| [Credit Card Mask](https://www.codewars.com/kata/credit-card-mask) | Codewars | [`7kyu-credit-card-mask.js`](codewars/7kyu-credit-card-mask.js) |
+| [Multiples of 3 or 5](https://www.codewars.com/kata/multiples-of-3-or-5) | Codewars | [`6kyu-multiples-of-3-or-5.js`](codewars/6kyu-multiples-of-3-or-5.js) |
+| [Vowel Count](https://www.codewars.com/kata/vowel-count) | Codewars | [`7kyu-vowel-count.js`](codewars/7kyu-vowel-count.js) |
