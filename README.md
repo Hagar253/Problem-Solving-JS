@@ -20,5 +20,5 @@ I use JavaScript and organize solutions by platform and topic.
 
 | Problem | Platform | File |
 |--------|----------|------|
-| [7kyu-Credit Card Mask](https://www.codewars.com/kata/credit-card-mask) | Codewars | [`7kyu-credit-card-mask.js`](Codewars/7kyu-credit-card-mask.js) |
+| [7kyu-Credit Card Mask](https://www.codewars.com/kata/credit-card-mask) | Codewars | [`7kyu-credit-card-mask.js`](codewars/7kyu-credit-card-mask.js) |
 
