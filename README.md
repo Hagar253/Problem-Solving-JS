@@ -26,6 +26,6 @@ I use JavaScript and organize solutions by platform and topic.
 
 ## 📋 LeetCode Problem List
 
-| Problem | Platform | File |
-|--------|----------|------|
+| Problem | File |
+|--------|------|
 | [Two Sum](https://leetcode.com/problems/two-sum) | [`1.two-sum.js`](leetcode/1.two-sum.js) |
