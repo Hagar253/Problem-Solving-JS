@@ -29,3 +29,4 @@ I use JavaScript and organize solutions by platform and topic.
 | Problem | File |
 |--------|------|
 | [Two Sum](https://leetcode.com/problems/two-sum) | [`1.two-sum.js`](leetcode/1.two-sum.js) |
+| [Palindrome Number](https://leetcode.com/problems/palindrome-number) | [`9.palindrome-number.js`](leetcode/9.palindrome-number.js) |
