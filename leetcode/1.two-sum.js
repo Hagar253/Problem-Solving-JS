@@ -27,7 +27,7 @@ var twoSumBrute = function(nums, target) {
             }
         }
     }
-    // If no solution found (problem guarantees one solution, so usually not needed)
+    // If no solution found 
     return [];
 };
 
@@ -57,18 +57,7 @@ var twoSumHash = function(nums, target) {
         map.set(nums[i], i);
     }
 
-    // If no solution found (not needed for LeetCode problem)
+    // If no solution found
     return [];
 };
 
-/* -------------------------
-   Test cases (optional)
--------------------------- */
-console.log(twoSumBrute([2,7,11,15], 9)); // [0,1]
-console.log(twoSumHash([2,7,11,15], 9));  // [0,1]
-
-console.log(twoSumBrute([3,2,4], 6));     // [1,2]
-console.log(twoSumHash([3,2,4], 6));      // [1,2]
-
-console.log(twoSumBrute([3,3], 6));       // [0,1]
-console.log(twoSumHash([3,3], 6));        // [0,1]
