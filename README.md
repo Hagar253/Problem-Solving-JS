@@ -30,8 +30,5 @@ I use JavaScript and organize solutions by platform and topic.
 |--------|------|
 | [Two Sum](https://leetcode.com/problems/two-sum) | [`1.two-sum.js`](leetcode/1.two-sum.js) |
 | [Palindrome Number](https://leetcode.com/problems/palindrome-number) | [`9.palindrome-number.js`](leetcode/9.palindrome-number.js) |
-| [Return Length of Arguments Passed
-](https://leetcode.com/problems/palindrome-number) | [`2703. Return Length of Arguments Passed
-.js`](leetcode/2703.return-length-of-arguments-passed
-.js) |
+| [Return Length of Arguments Passed](https://leetcode.com/problems/palindrome-number) | [`2703. Return Length of Arguments Passed.js`](leetcode/2703.return-length-of-arguments-passed.js) |
 
