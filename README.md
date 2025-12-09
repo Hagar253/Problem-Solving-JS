@@ -32,5 +32,7 @@ I use JavaScript and organize solutions by platform and topic.
 | [Palindrome Number](https://leetcode.com/problems/palindrome-number) | [`9.palindrome-number.js`](leetcode/9.palindrome-number.js) |
 | [Return Length of Arguments Passed](https://leetcode.com/problems/return-length-of-arguments-passed) | [`2703. Return Length of Arguments Passed.js`](leetcode/2703.return-length-of-arguments-passed.js) |
 | [Remove Duplicates From Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array) | [`26.remove-duplicates-from-sorted-array.js`](leetcode/26.remove-duplicates-from-sorted-array.js) |
+| [Two Sum](https://leetcode.com/problems/create-hello-world-function) | [`2667.create-hello-world-function.js`](leetcode/2667.create-hello-world-function.js) |
+| [Two Sum](https://leetcode.com/problems/counter) | [`2620.counter.js`](leetcode/2620.counter.js) |
 
 
