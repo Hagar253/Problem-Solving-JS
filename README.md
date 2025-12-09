@@ -35,5 +35,5 @@ I use JavaScript and organize solutions by platform and topic.
 | [Create Hello World Function](https://leetcode.com/problems/create-hello-world-function) | [`2667.create-hello-world-function.js`](leetcode/2667.create-hello-world-function.js) |
 | [Counter](https://leetcode.com/problems/counter) | [`2620.counter.js`](leetcode/2620.counter.js) |
 | [Transform Over Each Array Element](https://leetcode.com/problems/apply-transform-over-each-element-in-array) | [`2635. apply-transform-over-each-element-in-array.js`](leetcode/2635.apply-transform-over-each-element-in-array.js) |
-
+| [Filter Eelments From Array](https://leetcode.com/problems/filter-elements-from-array) | [`2634.filter-elements-from-array.js`](leetcode/2634.filter-elements-from-array.js) |
 
