@@ -37,4 +37,5 @@ I use JavaScript and organize solutions by platform and topic.
 | [Transform Over Each Array Element](https://leetcode.com/problems/apply-transform-over-each-element-in-array) | [`2635. apply-transform-over-each-element-in-array.js`](leetcode/2635.apply-transform-over-each-element-in-array.js) |
 | [Filter Eelments From Array](https://leetcode.com/problems/filter-elements-from-array) | [`2634.filter-elements-from-array.js`](leetcode/2634.filter-elements-from-array.js) |
 | [Array Reduce Transformation](https://leetcode.com/problems/array-reduce-transformation) | [`2626.array-reduce-transformation.js`](leetcode/2626.array-reduce-transformation.js) |
+| [Function Composition](https://leetcode.com/problems/function-composition) | [`2629.function-composition.js`](leetcode/2629.function-composition.js) |
 
