@@ -38,5 +38,5 @@ I use JavaScript and organize solutions by platform and topic.
 | [Filter Eelments From Array](https://leetcode.com/problems/filter-elements-from-array) | [`2634.filter-elements-from-array.js`](leetcode/2634.filter-elements-from-array.js) |
 | [Array Reduce Transformation](https://leetcode.com/problems/array-reduce-transformation) | [`2626.array-reduce-transformation.js`](leetcode/2626.array-reduce-transformation.js) |
 | [Function Composition](https://leetcode.com/problems/function-composition) | [`2629.function-composition.js`](leetcode/2629.function-composition.js) |
-| [Allow One Function Call](https://leetcode.com/allow-one-function-call) | [`2666.allow-one-function-call.js`](leetcode/2666.allow-one-function-call.js) |
+| [Allow One Function Call](https://leetcode.com/problems/allow-one-function-call) | [`2666.allow-one-function-call.js`](leetcode/2666.allow-one-function-call.js) |
 
