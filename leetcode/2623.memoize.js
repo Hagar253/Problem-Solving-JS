@@ -17,18 +17,18 @@
  * @return {Function}
  */
 function memoize(fn) {
-    let cache = {}; // Stores results for previously used arguments
+    let cache = {}; // Object to store results for previously used arguments
 
     return function(...args) {
-        const key = JSON.stringify(args);
+        const key = JSON.stringify(args); // Convert arguments to a string key
 
         if (key in cache) {
-            return cache[key];
+            return cache[key]; // Return cached result if available
         }
 
-        const result = fn.apply(this, args);
-        cache[key] = result;
-        return result;
+        const result = fn.apply(this, args); // Call the original function
+        cache[key] = result; // Store result in cache
+        return result; // Return the computed result
     };
 }
 
