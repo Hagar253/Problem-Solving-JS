@@ -45,7 +45,7 @@ I use JavaScript and organize solutions by platform and topic.
 | [Array Reduce Transformation](https://leetcode.com/problems/array-reduce-transformation) | [`2626.array-reduce-transformation.js`](leetcode/2626.array-reduce-transformation.js) | Easy |
 | [Function Composition](https://leetcode.com/problems/function-composition) | [`2629.function-composition.js`](leetcode/2629.function-composition.js) | Easy |
 | [Allow One Function Call](https://leetcode.com/problems/allow-one-function-call) | [`2666.allow-one-function-call.js`](leetcode/2666.allow-one-function-call.js) | Easy |
-| [Memoize](https://leetcode.com/problems/memoize) | [`2623.memoize`](leetcode/2623.memoize) | Medium |
+| [Memoize](https://leetcode.com/problems/memoize) | [`2623.memoize.js`](leetcode/2623.memoize.js) | Medium |
 
 
 
