@@ -3,6 +3,12 @@
 This repository contains my solutions to coding challenges from different problem solving platforms.  
 I use JavaScript and organize solutions by platform and topic.
 
+**Note:**  
+> Some problems may have more than one solution.  
+> Not all solutions are originally mine — in some cases, I research and add optimized or alternative solutions from other sources for the purpose of learning, comparison, and improving my problem-solving skills.  
+> Each solution included here helps me understand different approaches and patterns.
+
+
 ## 🌐 Platforms
 
 - LeetCode
