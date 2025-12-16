@@ -48,6 +48,6 @@ I use JavaScript and organize solutions by platform and topic.
 | [Memoize](https://leetcode.com/problems/memoize) | [`2623.memoize.js`](leetcode/2623.memoize.js) | Medium |
 | [Add Two Promises](https://leetcode.com/problems/add-two-promises) | [`2723.add-two-promises.js`](leetcode/2723.add-two-promises.js) | Easy |
 | [Sleep](https://leetcode.com/problems/sleep) | [`2621.sleep.js`](leetcode/2621.sleep.js) | Easy |
-
+| [Timeout Cancellation](https://leetcode.com/problems/timeout-cancellation) | [`2715.timeout-cancellation.js`](leetcode/2715.timeout-cancellation.js) | Easy |
 
 
