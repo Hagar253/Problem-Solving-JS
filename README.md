@@ -47,6 +47,7 @@ I use JavaScript and organize solutions by platform and topic.
 | [Allow One Function Call](https://leetcode.com/problems/allow-one-function-call) | [`2666.allow-one-function-call.js`](leetcode/2666.allow-one-function-call.js) | Easy |
 | [Memoize](https://leetcode.com/problems/memoize) | [`2623.memoize.js`](leetcode/2623.memoize.js) | Medium |
 | [Add Two Promises](https://leetcode.com/problems/add-two-promises) | [`2723.add-two-promises.js`](leetcode/2723.add-two-promises.js) | Easy |
+| [Sleep](https://leetcode.com/problems/sleep) | [`2621.sleep`](leetcode/2621.sleep) | Easy |
 
 
 
