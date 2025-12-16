@@ -49,5 +49,6 @@ I use JavaScript and organize solutions by platform and topic.
 | [Add Two Promises](https://leetcode.com/problems/add-two-promises) | [`2723.add-two-promises.js`](leetcode/2723.add-two-promises.js) | Easy |
 | [Sleep](https://leetcode.com/problems/sleep) | [`2621.sleep.js`](leetcode/2621.sleep.js) | Easy |
 | [Timeout Cancellation](https://leetcode.com/problems/timeout-cancellation) | [`2715.timeout-cancellation.js`](leetcode/2715.timeout-cancellation.js) | Easy |
+| [Interval Cancellation](https://leetcode.com/problems/interval-cancellation) | [`2725.interval-cancellation.js`](leetcode/2725.interval-cancellation.js) | Easy |
 
 
