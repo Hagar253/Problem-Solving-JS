@@ -51,5 +51,6 @@ I use JavaScript and organize solutions by platform and topic.
 | [Timeout Cancellation](https://leetcode.com/problems/timeout-cancellation) | [`2715.timeout-cancellation.js`](leetcode/2715.timeout-cancellation.js) | Easy |
 | [Interval Cancellation](https://leetcode.com/problems/interval-cancellation) | [`2725.interval-cancellation.js`](leetcode/2725.interval-cancellation.js) | Easy |
 | [Is Object Empty](https://leetcode.com/problems/is-object-empty) | [`2727.is-object-empty.js`](leetcode/2727.is-object-empty.js) | Easy |
+| [Promise Time Limit](https://leetcode.com/problems/promise-time-limit) | [`2637.promise-time-limit.js`](leetcode/2637.promise-time-limit.js) | Medium |
 
 
