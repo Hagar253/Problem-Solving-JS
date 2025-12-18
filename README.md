@@ -53,4 +53,5 @@ I use JavaScript and organize solutions by platform and topic.
 | [Is Object Empty](https://leetcode.com/problems/is-object-empty) | [`2727.is-object-empty.js`](leetcode/2727.is-object-empty.js) | Easy |
 | [Promise Time Limit](https://leetcode.com/problems/promise-time-limit) | [`2637.promise-time-limit.js`](leetcode/2637.promise-time-limit.js) | Medium |
 | [Cache With Time Limit](https://leetcode.com/problems/cache-with-time-limit) | [`2622.cache-with-time-limit.js`](leetcode/2622.cache-with-time-limit.js) | Medium |
+| [Sort By](https://leetcode.com/problems/sort-by) | [`2724.sort-by.js`](leetcode/2724.sort-by.js) | Easy |
 
