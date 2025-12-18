@@ -1,5 +1,5 @@
 /**
- * Problem: Time Limited Cache
+ * Problem: Cache With Time Limit
  * Platform: LeetCode
  * Difficulty: Medium
  * Description:
