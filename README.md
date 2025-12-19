@@ -55,4 +55,5 @@ I use JavaScript and organize solutions by platform and topic.
 | [Cache With Time Limit](https://leetcode.com/problems/cache-with-time-limit) | [`2622.cache-with-time-limit.js`](leetcode/2622.cache-with-time-limit.js) | Medium |
 | [Sort By](https://leetcode.com/problems/sort-by) | [`2724.sort-by.js`](leetcode/2724.sort-by.js) | Easy |
 | [Debounce](https://leetcode.com/problems/debounce) | [`2627.debounce.js`](leetcode/2627.debounce.js) | Medium |
+| [Length of Last Word](https://leetcode.com/problems/length-of-last-word) | [`58.length-of-last-word.js`](leetcode/58.length-of-last-word.js) | Easy |
 
