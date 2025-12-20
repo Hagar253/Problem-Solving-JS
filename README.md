@@ -56,5 +56,5 @@ I use JavaScript and organize solutions by platform and topic.
 | [Sort By](https://leetcode.com/problems/sort-by) | [`2724.sort-by.js`](leetcode/2724.sort-by.js) | Easy |
 | [Debounce](https://leetcode.com/problems/debounce) | [`2627.debounce.js`](leetcode/2627.debounce.js) | Medium |
 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word) | [`58.length-of-last-word.js`](leetcode/58.length-of-last-word.js) | Easy |
-| [Execute Asynchronous Functions in Parallel](https://leetcode.com/problems/execute-asynchronous-functions-in-parallel.js) | [`2721.execute-asynchronous-functions-in-parallel.js`](leetcode/2721.execute-asynchronous-functions-in-parallel.js) | Medium |
+| [Execute Asynchronous Functions in Parallel](https://leetcode.com/problems/execute-asynchronous-functions-in-parallel) | [`2721.execute-asynchronous-functions-in-parallel.js`](leetcode/2721.execute-asynchronous-functions-in-parallel.js) | Medium |
 
