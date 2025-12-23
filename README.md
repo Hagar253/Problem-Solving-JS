@@ -60,3 +60,12 @@ I use JavaScript and organize solutions by platform and topic.
 | 2724 | [Sort By](https://leetcode.com/problems/sort-by) | `2724.sort-by.js` | Easy | Custom sort comparator |
 | 2725 | [Interval Cancellation](https://leetcode.com/problems/interval-cancellation) | `2725.interval-cancellation.js` | Easy | setInterval + clearInterval |
 | 2727 | [Is Object Empty](https://leetcode.com/problems/is-object-empty) | `2727.is-object-empty.js` | Easy | Object keys length check |
+
+## 📊 LeetCode Stats
+
+![LeetCode Stats](https://leetcode-stats.vercel.app/api?username=ahagarshaheen2004&theme=dark&show_icons=true)
+
+> Username: `ahagarshaheen2004`  
+> Email: `ahagarshaheen2004@gmail.com`
+
+---
