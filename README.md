@@ -65,10 +65,6 @@ I use JavaScript and organize solutions by platform and topic.
 
 ![LeetCode Stats](https://leetcode-stats.vercel.app/api?username=ahagarshaheen2004&theme=dark&show_icons=true)
 
-## 📊 LeetCode Stats
-
-![LeetCode Stats](https://leetcode-stats.vercel.app/api?username=hagarshaheen2004&theme=dark&show_icons=true&count_private=true)
-
 
 
 > Username: `ahagarshaheen2004`  
