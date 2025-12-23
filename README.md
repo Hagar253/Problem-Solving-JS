@@ -8,6 +8,8 @@ I use JavaScript and organize solutions by platform and topic.
 > Not all solutions are originally mine — in some cases, I research and add optimized or alternative solutions from other sources for the purpose of learning, comparison, and improving my problem-solving skills.  
 > Each solution included here helps me understand different approaches and patterns.
 
+> **Note about Codewars:**  
+> I initially started solving problems on Codewars because I had heard it was an easy entry point. However, I found the problems too easy to help me grow significantly, so I switched focus to LeetCode to challenge myself with more algorithmic problems and improve my problem-solving skills.
 
 ## 🌐 Platforms
 
