@@ -64,7 +64,9 @@ I use JavaScript and organize solutions by platform and topic.
 ## 📊 LeetCode Stats
 
 ![LeetCode Stats](https://leetcode-stats.vercel.app/api?username=ahagarshaheen2004&theme=dark&show_icons=true)
-![LeetCode Stats](https://leetcode-stats.vercel.app/api?username=ahagarshaheen2004&theme=dark&show_icons=true)
+![LeetCode Easy](https://leetcode-stats.vercel.app/api?username=ahagarshaheen2004&theme=dark&show_icons=true&hide=ranking=false)
+![LeetCode Stats](https://leetcode-stats.vercel.app/api?username=ahagarshaheen2004&theme=merko&show_icons=true&hide_title=false&hide_ranking=false)
+
 
 > Username: `ahagarshaheen2004`  
 > Email: `ahagarshaheen2004@gmail.com`
