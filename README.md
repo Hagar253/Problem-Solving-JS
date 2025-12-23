@@ -48,6 +48,7 @@ I use JavaScript and organize solutions by platform and topic.
 | 2621 | [Sleep](https://leetcode.com/problems/sleep) | [`2621.sleep.js`](leetcode/2621.sleep.js) | Easy | Promise with setTimeout |
 | 2622 | [Cache With Time Limit](https://leetcode.com/problems/cache-with-time-limit) | [`2622.cache-with-time-limit.js`](leetcode/2622.cache-with-time-limit.js) | Medium | Map with expiration timestamps |
 | 2623 | [Memoize](https://leetcode.com/problems/memoize) | [`2623.memoize.js`](leetcode/2623.memoize.js) | Medium | Caching with Map |
+| 2625 | [Flatten Deeply Nested Array](https://leetcode.com/problems/flatten-deeply-nested-array) | [`2625.flatten-deeply-nested-array.js`](leetcode/2625.flatten-deeply-nested-array.js) | Medium | Recursion / reduce-based flattening |
 | 2626 | [Array Reduce Transformation](https://leetcode.com/problems/array-reduce-transformation) | [`2626.array-reduce-transformation.js`](leetcode/2626.array-reduce-transformation.js) | Easy | Manual reduce implementation |
 | 2627 | [Debounce](https://leetcode.com/problems/debounce) | [`2627.debounce.js`](leetcode/2627.debounce.js) | Medium | setTimeout debouncing |
 | 2629 | [Function Composition](https://leetcode.com/problems/function-composition) | [`2629.function-composition.js`](leetcode/2629.function-composition.js) | Easy | Function composition |
