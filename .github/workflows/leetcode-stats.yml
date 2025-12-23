@@ -1,0 +1,18 @@
+name: Update LeetCode Heatmap
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # runs daily
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Generate LeetCode Stats
+        uses: leetcode-tools/leetcode-stats-action@main
+        with:
+          username: ahagarshaheen2004
+          theme: dark
+          output: README.md
