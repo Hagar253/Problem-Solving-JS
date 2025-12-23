@@ -32,6 +32,10 @@ I use JavaScript and organize solutions by platform and topic.
 | [Multiples of 3 or 5](https://www.codewars.com/kata/multiples-of-3-or-5) | [`6kyu-multiples-of-3-or-5.js`](codewars/6kyu-multiples-of-3-or-5.js) |
 | [Vowel Count](https://www.codewars.com/kata/vowel-count) | [`7kyu-vowel-count.js`](codewars/7kyu-vowel-count.js) |
 
+#### 📊 Codewars Stats
+
+![Codewars Badges](https://www.codewars.com/users/Hagar253/badges/large)
+
 ## 📋 LeetCode Problem List
 
 | ID | Problem | File | Difficulty | Technique Used |
@@ -61,11 +65,12 @@ I use JavaScript and organize solutions by platform and topic.
 | 2725 | [Interval Cancellation](https://leetcode.com/problems/interval-cancellation) | `2725.interval-cancellation.js` | Easy | setInterval + clearInterval |
 | 2727 | [Is Object Empty](https://leetcode.com/problems/is-object-empty) | `2727.is-object-empty.js` | Easy | Object keys length check |
 
-## 📊 LeetCode Stats
+#### 📊 LeetCode Stats
+<p>
+    <a href="https://leetcode.com/u/ahagarshaheen2004/">
+        <img src="https://leetcard.jacoblin.cool/ahagarshaheen2004?theme=dark&ext=heatmap">
+    </a>
+</p>
 
-![LeetCode Stats](https://leetcode-stats.vercel.app/api?username=ahagarshaheen2004&theme=dark&show_icons=true)
 
-> Username: `ahagarshaheen2004`  
-> Email: `ahagarshaheen2004@gmail.com`
 
----
