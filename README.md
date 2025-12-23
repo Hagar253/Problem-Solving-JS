@@ -58,4 +58,6 @@ I use JavaScript and organize solutions by platform and topic.
 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word) | [`58.length-of-last-word.js`](leetcode/58.length-of-last-word.js) | Easy |
 | [Execute Asynchronous Functions in Parallel](https://leetcode.com/problems/execute-asynchronous-functions-in-parallel) | [`2721.execute-asynchronous-functions-in-parallel.js`](leetcode/2721.execute-asynchronous-functions-in-parallel.js) | Medium |
 | [Chunk Array](https://leetcode.com/problems/chunk-array) | [`2677.chunk-array.js`](leetcode/2677.chunk-array.js) | Easy |
+| [Array Prototype Last](https://leetcode.com/problems/array-prototype-last) | [`2619.array-prototype-last.js`](leetcode/2619.array-prototype-last.js) | Easy |
+| [Join Two Arrays by ID](https://leetcode.com/problems/join-two-arrays-by-id) | [`2722.join-two-arrays-by-id.js`](leetcode/2722.join-two-arrays-by-id.js) | Medium |
 
