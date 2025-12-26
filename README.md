@@ -42,8 +42,10 @@ I use JavaScript and organize solutions by platform and topic.
 |----|--------|------|------------|----------------|
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum) | [`1.two-sum.js`](leetcode/1.two-sum.js) | Easy | Hash map lookup |
 | 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number) | [`9.palindrome-number.js`](leetcode/9.palindrome-number.js) | Easy | Reverse number comparison |
+| 20 | [Valid Parentheses](https://leetcode.com/problems/two-sum) | [`20.valid-parentheses.js`](leetcode/20.valid-parentheses.js) | Easy | Stack-based |
 | 26 | [Remove Duplicates From Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array) | [`26.remove-duplicates-from-sorted-array.js`](leetcode/26.remove-duplicates-from-sorted-array.js) | Easy | Two pointers |
 | 58 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word) | [`58.length-of-last-word.js`](leetcode/58.length-of-last-word.js) | Easy | Reverse traversal |
+| 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array) | [`88.merge-sorted-array.js`](leetcode/88.merge-sorted-array.js) | Easy | Truncate, Append, and Sort |
 | 2620 | [Counter](https://leetcode.com/problems/counter) | [`2620.counter.js`](leetcode/2620.counter.js) | Easy | Closure with internal state |
 | 2621 | [Sleep](https://leetcode.com/problems/sleep) | [`2621.sleep.js`](leetcode/2621.sleep.js) | Easy | Promise with setTimeout |
 | 2622 | [Cache With Time Limit](https://leetcode.com/problems/cache-with-time-limit) | [`2622.cache-with-time-limit.js`](leetcode/2622.cache-with-time-limit.js) | Medium | Map with expiration timestamps |
@@ -59,11 +61,14 @@ I use JavaScript and organize solutions by platform and topic.
 | 2666 | [Allow One Function Call](https://leetcode.com/problems/allow-one-function-call) | [`2666.allow-one-function-call.js`](leetcode/2666.allow-one-function-call.js) | Easy | Closure with boolean flag |
 | 2667 | [Create Hello World Function](https://leetcode.com/problems/create-hello-world-function) | [`2667.create-hello-world-function.js`](leetcode/2667.create-hello-world-function.js) | Easy | Closure |
 | 2677 | [Chunk Array](https://leetcode.com/problems/chunk-array) | [`2677.chunk-array.js`](leetcode/2677.chunk-array.js) | Easy | Iteration with slicing |
+| 2694 | [Event Emitter](https://leetcode.com/problems/event-emitter) | [`2694.event-emitterjs`](leetcode/2694.event-emitter.js) | Medium | Event subscription pattern |
 | 2703 | [Return Length of Arguments Passed](https://leetcode.com/problems/return-length-of-arguments-passed) | [`2703.return-length-of-arguments-passed.js`](leetcode/2703.return-length-of-arguments-passed.js) | Easy | Rest parameters |
+| 2705 | [Compact Object](https://leetcode.com/problems/compact-object) | [`2705.compact-object.js`](leetcode/2705.compact-object.js) | Medium | Recursive Traversal |
 | 2715 | [Timeout Cancellation](https://leetcode.com/problems/timeout-cancellation) | [`2715.timeout-cancellation.js`](leetcode/2715.timeout-cancellation.js) | Easy | setTimeout + clearTimeout |
 | 2721 | [Execute Asynchronous Functions in Parallel](https://leetcode.com/problems/execute-asynchronous-functions-in-parallel) | [`2721.execute-asynchronous-functions-in-parallel.js`](leetcode/2721.execute-asynchronous-functions-in-parallel.js) | Medium | Manual promise aggregation |
 | 2722 | [Join Two Arrays by ID](https://leetcode.com/problems/join-two-arrays-by-id) | [`2722.join-two-arrays-by-id.js`](leetcode/2722.join-two-arrays-by-id.js) | Medium | Map-based object merging |
-| 2724 | [Sort By](https://leetcode.com/problems/sort-by) | [`2724.sort-by.js`](leetcode/2724.sort-by.js) | Easy |
+| 2724 | [Sort By](https://leetcode.com/problems/sort-by) | [`2724.sort-by.js`](leetcode/2724.sort-by.js) | Easy | Custom sort comparator |
+| 2726 | [Calculator with Method Chaining](https://leetcode.com/problems/calculator-with-method-chaining) | [`2726.calculator-with-method-chaining.js`](leetcode/2726.calculator-with-method-chaining.js) | Easy | Method chaining with class |
 
 
 #### 📊 LeetCode Stats
