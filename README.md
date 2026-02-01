@@ -69,7 +69,7 @@ I use JavaScript and organize solutions by platform and topic.
 | 2722 | [Join Two Arrays by ID](https://leetcode.com/problems/join-two-arrays-by-id) | [`2722.join-two-arrays-by-id.js`](leetcode/2722.join-two-arrays-by-id.js) | Medium | Map-based object merging |
 | 2724 | [Sort By](https://leetcode.com/problems/sort-by) | [`2724.sort-by.js`](leetcode/2724.sort-by.js) | Easy | Custom sort comparator |
 | 2726 | [Calculator with Method Chaining](https://leetcode.com/problems/calculator-with-method-chaining) | [`2726.calculator-with-method-chaining.js`](leetcode/2726.calculator-with-method-chaining.js) | Easy | Method chaining with class |
-
+| 3010 | [Divide an Array Into Subarrays With Minimum Cost I](https://leetcode.com/problems/divide-an-array-into-subarrays-with-minimum-cost-i) | [`3010.divide-an-array-into-subarrays-with-minimum-cost-I.js`](leetcode/3010.divide-an-array-into-subarrays-with-minimum-cost-I.js) | Easy | Nested loops |
 
 #### 📊 LeetCode Stats
 <p>
