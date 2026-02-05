@@ -72,8 +72,7 @@ I use JavaScript and organize solutions by platform and topic.
 | 3010 | [Divide an Array Into Subarrays With Minimum Cost I](https://leetcode.com/problems/divide-an-array-into-subarrays-with-minimum-cost-i) | [`3010.divide-an-array-into-subarrays-with-minimum-cost-I.js`](leetcode/3010.divide-an-array-into-subarrays-with-minimum-cost-I.js) | Easy | Nested loops |
 | 3013 | [Divide an Array Into Subarrays With Minimum Cost II](https://leetcode.com/problems/divide-an-array-into-subarrays-with-minimum-cost-ii) | [`3013.divide-an-array-into-subarrays-with-minimum-cost-II.js`](leetcode/3013.divide-an-array-into-subarrays-with-minimum-cost-II.js) | Hard | Sliding Windows and Heaps |
 | 3637 | [Trionic Array I](https://leetcode.com/problems/trionic-array-i) | [`3637.trionic-array-I.js`](leetcode/3637.trionic-array-I.js) | Easy | One Pass Scan |
-
-3637.trionic-array-I.js
+| 3379 | [Transformed Array](https://leetcode.com/problems/transformed-array) | [`3379.transformed-array.js`](leetcode/3379.transformed-array.js) | Easy | Circular Indexing |
 
 #### 📊 LeetCode Stats
 <p>
